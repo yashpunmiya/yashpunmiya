@@ -17,7 +17,7 @@
 
 |_**Github Stats**_|_**Top Languages**_|
 |-----------|-------------|
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpunmiya&theme=algolia" width="600" height="250">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpunmiya&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=20">|
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpunmiya&theme=algolia&hide_border=false" width="600" height="250">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpunmiya&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=20">|
 
 <h3 align="center"> Connect With Me: </h4>
 <p align="center">
