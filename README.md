@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/yashpunmiya/Gradgaurdian">
+<a href="https://github.com/yashpunmiya/Gradgaurdian](https://github.com/yashpunmiya/Event-Management-System">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=yashpunmiya&repo=Gradgaurdian&border_color=00aeff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00aeff" />
 </a>
 <span>&nbsp;</span>
