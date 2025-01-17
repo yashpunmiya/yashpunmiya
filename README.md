@@ -10,7 +10,7 @@
 • Currently working on some of my cool side projects based on Web Development. <br/>
 • Webathon 2024 Winner 🏆 <br/>
 • I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. <br/>
-<a href="https://drive.google.com/file/d/10LbFN8kknMzNFwX67Z1qgIdPjgEfcaFY/view?usp=sharing" >(Resume)</a>
+<a href="https://drive.google.com/file/d/1bMT45QNWRwYSKHVwyob_W0bo8GYPXVin/view?usp=sharing" >(Resume)</a>
 
 <br/>
 
