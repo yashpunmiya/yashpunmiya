@@ -6,8 +6,9 @@
 <img align="right" height="250px" width="425px" alt="GIF" src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/coverImg.gif" />
 
 <h3 align="left"> I am Yash Punmiya <img align="center" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40px" width="40px" /></h4> 
+• Founder @4istudios.in
 • A Computer Engineering Student @ Fr.CRCE <br/>
-• 6x Hackathon Winner🏆 & 12x finalist , SIH24 Finalist <br/>
+• 8x Hackathon Winner🏆 & 14x finalist , SIH24 Finalist <br/>
 • Currently working on some of my cool side projects based on Web Development and Web3 <br/>
 • I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. <br/>
 <a href="https://drive.google.com/file/d/1bMT45QNWRwYSKHVwyob_W0bo8GYPXVin/view?usp=sharing" >(Resume)</a>
