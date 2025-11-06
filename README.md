@@ -1,54 +1,227 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer;Experienced%20UI%2FUX%20Designer;Learning%20And%20Implementing&font=Fira%20Code&center=true&width=440&height=45&color=00aeff&vCenter=true&pause=1000&size=28" /></a>
-</p>
+<div align="center">
 
-<img align="right" height="250px" width="425px" alt="GIF" src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/coverImg.gif" />
+<!-- HERO SECTION WITH CUSTOM SVG -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&text=YASH%20PUNMIYA&fontSize=70&color=gradient&customColorList=12,14,18,20,24&fontColor=fff&stroke=00ff00&strokeWidth=2&animation=twinkling&desc=FOUNDER%20@%204iSTUDIOS%20|%208X%20HACKATHON%20WINNER&descSize=20&descAlignY=65">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=YASH%20PUNMIYA&fontSize=70&color=gradient&customColorList=12,14,18,20,24&fontColor=fff&stroke=00ff00&strokeWidth=2&animation=twinkling&desc=FOUNDER%20@%204iSTUDIOS%20|%208X%20HACKATHON%20WINNER&descSize=20&descAlignY=65">
+</picture>
 
-<h3 align="left"> I am Yash Punmiya <img align="center" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40px" width="40px" /></h4> 
-• Founder @4istudios.in
-• A Computer Engineering Student @ Fr.CRCE <br/>
-• 8x Hackathon Winner🏆 & 14x finalist , SIH24 Finalist <br/>
-• Currently working on some of my cool side projects based on Web Development and Web3 <br/>
-• I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. <br/>
-<a href="https://drive.google.com/file/d/1bMT45QNWRwYSKHVwyob_W0bo8GYPXVin/view?usp=sharing" >(Resume)</a>
+</div>
 
-<br/>
+<br>
+ 
 
-<h1> Tech Stack <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40px" width="40px" /> </h1>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/trophy.png"/>
+<br><strong>8x Winner</strong>
+<br><sub>Hackathon Champion</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/medal.png"/>
+<br><strong>14x Finalist</strong>
+<br><sub>Competition Expert</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/innovation.png"/>
+<br><strong>SIH24</strong>
+<br><sub>National Finalist</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/company.png"/>
+<br><strong>Founder</strong>
+<br><sub>4istudios.in</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/code.png"/>
+<br><strong>Open Source</strong>
+<br><sub>Contributor</sub>
+</td>
+</tr>
+</table>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
-<h1 align="center"> Statistical Data <img align="center" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" height="40px" width="40px" /> </h1>
+</div>
 
-|_**Github Stats**_|_**Top Languages**_|
-|-----------|-------------|
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpunmiya&theme=algolia&hide_border=false" width="600" height="250">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpunmiya&size_weight=0.5&count_weight=0.5&theme=algolia&langs_count=20">|
+<!-- SKILL MATRIX -->
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-<h3 align="center"> Connect With Me: <img align="center" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="60px" width="120px" /></h4>
-<p align="center">
-<a  href="https://www.linkedin.com/in/yash-punmiya-27a6a8296/"  target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="yash punmiya"/></a>
-<a  href="mailto: yyash7379@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="yyash7379@gmail.com"/></a>
-<a  href="https://www.instagram.com/team.4i"  target="_blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="team.4i"/></a>
+### ⚡ FRONTEND
+
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a034e4-43fc-4407-bfa1-e56c81f6c5c3.png" title="React"/>
+<img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" title="Tailwind"/>
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" title="JavaScript"/>
+
+**React** • **Next.js** • **Tailwind**  
+**HTML5** • **CSS3** • **Bootstrap**
+
+</td>
+<td align="center" width="25%">
+
+### 🔥 BACKEND
+
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" title="Python"/>
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django"/>
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" title="Java"/>
+
+**Python** • **Django** • **Flask**  
+**Java** • **C/C++** • **C#**
+
+</td>
+<td align="center" width="25%">
+
+### ☁️ CLOUD & DEVOPS
+
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" title="AWS"/>
+<img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase"/>
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" title="GitHub"/>
+
+**AWS** • **Firebase** • **Vercel**  
+**Git** • **GitHub** • **Netlify**
+
+</td>
+<td align="center" width="25%">
+
+### 🎨 DESIGN
+
+<img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma"/>
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino"/>
+<img height="50" src="https://static-00.iconduck.com/assets.00/canva-icon-2048x2048-g85rvvcj.png" title="Canva"/>
+
+**Figma** • **Canva** • **UI/UX**  
+**Arduino** • **IoT** • **Prototyping**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ⚔️ BATTLE STATS
+
+<img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashpunmiya&theme=radical" alt="Profile Summary"/>
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=yashpunmiya&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=00ff00&icon_color=00ff00&text_color=ffffff&ring_color=00ff00" alt="Stats"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpunmiya&theme=radical&hide_border=true&background=1a1b27&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&currStreakNum=00ff00&sideNums=00ff00" alt="Streak"/>
+</td>
+</tr>
+</table>
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yashpunmiya&bg_color=1a1b27&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&title_color=00ff00" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 LEGENDARY PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 MedSafe
+*Medical Safety & Management System*
+
+[![](https://img.shields.io/badge/🚀_DEPLOYED-00ff00?style=for-the-badge&logoColor=white)](https://github.com/yashpunmiya/MedSafe)
+[![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/yashpunmiya/MedSafe)
+[![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/yashpunmiya/MedSafe)
+
+> Revolutionary healthcare management platform with real-time monitoring and AI-powered insights
+
+**⭐ Features:** Patient Management • Real-time Alerts • Analytics Dashboard
+
+</td>
+<td width="50%">
+
+### 🎨 Paletto
+*AI-Powered Color Palette Generator*
+
+[![](https://img.shields.io/badge/🎨_LIVE-00ff00?style=for-the-badge&logoColor=white)](https://github.com/yashpunmiya/paletto)
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/yashpunmiya/paletto)
+[![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/yashpunmiya/paletto)
+
+> Smart design tool that generates stunning color palettes using advanced algorithms
+
+**⭐ Features:** AI Generation • Export Options • Designer Tools
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 GradGuardian
+*Academic Performance Tracker*
+
+[![](https://img.shields.io/badge/📊_ACTIVE-00ff00?style=for-the-badge&logoColor=white)](https://github.com/yashpunmiya/Gradgaurdian)
+[![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/yashpunmiya/Gradgaurdian)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/yashpunmiya/Gradgaurdian)
+
+> Comprehensive student management system with predictive analytics and performance insights
+
+**⭐ Features:** Grade Tracking • Analytics • Predictions
+
+</td>
+<td width="50%">
+
+### 🔒 CaveSafe
+*Underground Safety Monitoring System*
+
+[![](https://img.shields.io/badge/🛡️_SECURED-00ff00?style=for-the-badge&logoColor=white)](https://github.com/yashpunmiya/CaveSafe)
+[![](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/yashpunmiya/CaveSafe)
+[![](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/yashpunmiya/CaveSafe)
+
+> IoT-based safety system for monitoring hazardous underground environments
+
+**⭐ Features:** Real-time Monitoring • IoT Sensors • Cloud Integration
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
 
 
-#### Projects
 
-<p align="center">
-<a href="(https://github.com/yashpunmiya/MedSafe)">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=yashpunmiya&repo=MedSafe&border_color=00aeff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00aeff" />
+</div>
+
+<div align="center">
+
+## 📡 CONNECT WITH ME
+
+<a href="https://www.linkedin.com/in/yash-punmiya-27a6a8296/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
 </a>
-<span>&nbsp;</span>
-<a href="https://github.com/yashpunmiya/paletto">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=yashpunmiya&repo=paletto&border_color=00aeff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00aeff" />
+<a href="mailto:yyash7379@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"/>
 </a>
-</p>
+<a href="https://www.instagram.com/team.4i" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
+</a>
+<a href="https://4istudios.in" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Portfolio"/>
+</a>
+<a href="https://drive.google.com/file/d/1bMT45QNWRwYSKHVwyob_W0bo8GYPXVin/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=000000" alt="Resume"/>
+</a>
 
-<p align="center">
-<a href="https://github.com/yashpunmiya/Gradgaurdian](https://github.com/yashpunmiya/Event-Management-System">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=yashpunmiya&repo=Gradgaurdian&border_color=00aeff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00aeff" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/yashpunmiya/CaveSafe">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=yashpunmiya&repo=Cavesafe&border_color=00aeff&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00aeff" />
-</a>
-</p>
+<br><br>
+
+### 💚 *"Code is poetry written in logic"*
+
+</div>
