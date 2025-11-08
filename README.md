@@ -26,7 +26,7 @@
 </td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/innovation.png"/>
-<br><strong>SIH24</strong>
+<br><strong>SIH 25&24</strong>
 <br><sub>National Finalist</sub>
 </td>
 <td align="center" width="20%">
