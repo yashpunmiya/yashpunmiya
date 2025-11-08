@@ -51,7 +51,7 @@
 
 ### ⚡ FRONTEND
 
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a034e4-43fc-4407-bfa1-e56c81f6c5c3.png" title="React"/>
+<img height="50" src="https://www.pngall.com/wp-content/uploads/15/React-Logo-PNG-Images.png" title="React"/>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" title="Tailwind"/>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" title="JavaScript"/>
 
@@ -89,7 +89,7 @@
 
 <img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma"/>
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino"/>
-<img height="50" src="https://static-00.iconduck.com/assets.00/canva-icon-2048x2048-g85rvvcj.png" title="Canva"/>
+<img height="50" src="https://www.pngall.com/wp-content/uploads/13/Canva-Logo-PNG.png" title="Canva"/>
 
 **Figma** • **Canva** • **UI/UX**  
 **Arduino** • **IoT** • **Prototyping**
